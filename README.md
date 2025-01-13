@@ -2,7 +2,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/madiedowell/Ocean-Current-VectorTopology.git
+   git clone https://github.com/madiedowell/OceanCurrentVis.git
    cd repository
 
 
